@@ -1,0 +1,6 @@
+{
+  "name": "EduAdmin",
+  "description": "Comprehensive school management system with role-based dashboards for Admin, Teacher, and Student/Parent, managing classes, students, attendance, results, fees, timetable, and announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
